@@ -1,9 +1,13 @@
 # A Thymeleaf layout example
 https://o7planning.org/12369/thymeleaf-page-layout
 
+# A Thymeleaf cheat sheet
+https://github.com/engma/thymeleaf-cheat-sheet
+
 # Thymeleaf official docs
 https://www.thymeleaf.org/doc/articles/layouts.html
 https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#flexible-layouts-beyond-mere-fragment-insertion
+https://www.baeldung.com/spring-thymeleaf-3-expressions
 
 # Github
 https://github.com/thymeleaf/thymeleafexamples-layouts
